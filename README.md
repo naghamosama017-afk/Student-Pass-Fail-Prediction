@@ -1,4 +1,4 @@
-# Student-Pass-Fail-Prediction# Student Pass-Fail Prediction
+# Student-Pass-Fail-Prediction
 
 This project uses Machine Learning to predict whether a student will pass or fail based on specific features.
 
